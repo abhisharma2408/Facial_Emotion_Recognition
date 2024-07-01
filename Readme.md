@@ -19,3 +19,6 @@ During the training process, we apply various regularization techniques, such as
 ## Prediction
 
 Please note that since this is the initial stage of the project, the accuracy of emotion prediction may not be satisfactory.for face detection we used the open cv and haarcascade frontface default file after detecting we sent the data (converted to the desired form) to prediction function to classify the images
+## Acknowledgements
+Dataset : [Kaggle_face_data_icml](https://www.kaggle.com/code/ajayuser/emotion-detection-icml-face-data)
+You might have to accept the terms of the competitions for downloading the dataset
